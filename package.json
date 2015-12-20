@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "async.maplimit": "0.4.2",
-    "async.util.range": "0.4.2"
+    "async.util.range": "0.4.3"
   },
   "keywords": [
     "async",
